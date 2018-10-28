@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: TargaMS.h
-Description: TargaMS font for DisplayCore
+Description: TargaMS
