@@ -1,7 +1,7 @@
 #ifndef _TARGAMS_H
 #define _TARGAMS_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t TargaMS10[];
